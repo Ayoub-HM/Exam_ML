@@ -4,5 +4,7 @@ __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
 .mypy_cache/
+figures/
+results/
 .env
 .env.*
